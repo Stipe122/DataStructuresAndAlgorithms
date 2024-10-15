@@ -1,0 +1,10 @@
+﻿  SPA_01_01.c
+C:\Users\Acer\Desktop\SPA\SPA_Vj1\SPA_Vj1\SPA_01_01.c(42,13): warning C4047: 'return': 'char *' differs in levels of indirection from 'int'
+C:\Users\Acer\Desktop\SPA\SPA_Vj1\SPA_Vj1\SPA_01_01.c(44,12): warning C4047: 'return': 'char *' differs in levels of indirection from 'int'
+C:\Users\Acer\Desktop\SPA\SPA_Vj1\SPA_Vj1\SPA_01_01.c(46,13): warning C4047: 'return': 'char *' differs in levels of indirection from 'int'
+C:\Users\Acer\Desktop\SPA\SPA_Vj1\SPA_Vj1\SPA_01_01.c(48,12): warning C4047: 'return': 'char *' differs in levels of indirection from 'int'
+C:\Users\Acer\Desktop\SPA\SPA_Vj1\SPA_Vj1\SPA_01_01.c(133,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\Acer\Desktop\SPA\SPA_Vj1\SPA_Vj1\SPA_01_01.c(133,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\Acer\Desktop\SPA\SPA_Vj1\SPA_Vj1\SPA_01_01.c(125,7): warning C4101: 'dest': unreferenced local variable
+C:\Users\Acer\Desktop\SPA\SPA_Vj1\SPA_Vj1\SPA_01_01.c(56): warning C4715: 'mystrcmp': not all control paths return a value
+  SPA_Vj1.vcxproj -> C:\Users\Acer\Desktop\SPA\SPA_Vj1\x64\Debug\SPA_Vj1.exe
