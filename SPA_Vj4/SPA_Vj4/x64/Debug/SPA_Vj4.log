@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Acer\Desktop\SPA_Vj4\SPA_Vj4\main.c(103,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Acer\Desktop\SPA_Vj4\SPA_Vj4\main.c(144,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Acer\Desktop\SPA_Vj4\SPA_Vj4\main.c(203,2): warning C4098: 'main': 'void' function returning a value
+  SPA_Vj4.vcxproj -> C:\Users\Acer\Desktop\SPA_Vj4\x64\Debug\SPA_Vj4.exe
